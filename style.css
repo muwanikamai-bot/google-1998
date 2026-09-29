@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+#container{
+    width: 90%;
+    margin: auto;
+}
+#logo{
+    margin-top: 20px;
+}
+#search{
+    background-color: #EEEEEE;
+    padding: 5px;
+}
+#search p{
+    margin: 0;
+}
+#bottom{
+    display: flex;
+    margin-top: 3px;
+    gap: 3px;
+}
+.box{
+    padding: 10px;
+    font-size: 13px;
+}
+#box1{
+    background-color: #7EE5DA;
+    width: 37%;
+}
+#box2{
+    background-color: #70CCC2;
+    width: 20%;
+}
+#box3{
+    background-color: #62B3AA;
+    width: 43%;
+}
+#copyright{
+    font-size: 12px;
+    margin-top: 15px;
+}
